@@ -10,7 +10,7 @@ Foi criada uma instância no **Microsoft Azure**, onde criei um serviço SQL par
 Após a criação tive que importar o banco de dados para o Power BI, que exigiu a instalação de um conector MySQL antes da importação. No link "Saiba mais" no próprio Power BI Desktop ele me direcionou para uma página da Oracle.
 Tive que criar uma conta na Oracle para poder baixar o conector, por isso deixei o instalador [nesse repositório](https://github.com/devcaiada/etl-powerbi-dio/tree/main/MySQL%20Connector).
 
-
+![report](https://github.com/devcaiada/etl-powerbi-dio/blob/main/git/images/Report.png?raw=true)
 
 Mesclar
 Funciona como um join no sql. Ele usa uma coluna em comum para mesclar as tabelas.
